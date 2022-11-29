@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1101+1429/J1101+1429_nbin3_jwnorm.fits|1670.7886|-4e-05|13.359|0.031|45.2|4.069|-6.989|2.827|2|2|2|-98.8641|98.8641|1670.172488114826|1671.2744572059182|7800|7830|-6e-05|AlII|b|-- 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1101+1429/J1101+1429_nbin3_jwnorm.fits|1670.7886|0.00039|12.704|0.093|41.5|11.812|-22.454|7.951|3|3|3|-54.502|54.502|1671.133184939286|1671.7406806774025|7826|7842|0.00031|AlII|b|-- 

@@ -1,0 +1,2 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
+J1101+1429_nbin3_jwnorm.fits|1425.03000|-0.00139632|13.8200|15.4000|0.0000|2|2|2|-78.5843|78.5843|1422.66723|1423.41327|-0.00139632|SI|b|
