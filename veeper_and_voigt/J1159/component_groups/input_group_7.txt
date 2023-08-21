@@ -1,2 +1,0 @@
-specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|z_comp|trans|rely|comment
-J1159+5106_nbin3_jwnorm_meth3.fits|1215.67000|0.29978366|13.0000|10.0000|0.0000|2|2|2|-53.2345|53.2345|1579.82745|1580.38861|0.29978366|HI|c|
