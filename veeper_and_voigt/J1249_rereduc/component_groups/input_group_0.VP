@@ -1,0 +1,5 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1249+4122/J1249+4122_nbin3_method1_jwnorm.fits|1393.7602|-0.00014|13.585|0.024|43.3|3.184|7.524|2.192|2|2|2|-63.3744|63.3744|1393.2698134961872|1393.8590792636328|280|296|-0.00012|SiIV|b|-- 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1249+4122/J1249+4122_nbin3_method1_jwnorm.fits|1402.7729|-0.00014|13.585|0.0|43.3|0.0|7.524|0.0|2|2|2|-63.3744|63.3744|1402.2793424295699|1402.87241866282|525|542|-0.00012|SiIV|b|-- 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1249+4122/J1249+4122_nbin3_method1_jwnorm.fits|1393.7602|0.00021|13.372|0.03|29.9|2.966|24.289|1.988|3|3|3|-40.5596|40.5596|1393.8708753437425|1394.248005286137|296|307|0.0003|SiIV|c|-- 
+/Users/samgarza/Dropbox/COS-HolesHSTdata/J1249+4122/J1249+4122_nbin3_method1_jwnorm.fits|1402.7729|0.00021|13.372|0.0|29.9|0.0|24.289|0.0|3|3|3|-40.5596|40.5596|1402.884291021856|1403.2638596614036|542|552|0.0003|SiIV|c|-- 
